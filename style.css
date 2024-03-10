@@ -1,0 +1,160 @@
+@import url("https://fonts.googleapis.com/css2?family=Montserrat:wght@100;200;300;400;500;600;700;800;900&display=swap");
+
+.photo{
+     display: flex;
+     justify-content: end;
+     margin-right:40px;
+     height: 600px;
+     margin-top: -500px;
+     
+}
+body{
+    background: linear-gradient(#fff, #a5d4f2);
+}
+   
+
+span{
+    font-size: 32px;
+    color:#368dae;
+    text-decoration: none;
+    font-weight: 700;
+}
+
+.taille{
+  height: 500px;
+  width: 730px;
+}
+.para{
+    display: flex;
+    font-size: 40px;
+    margin-left: 40px;
+    margin-right: 40px;
+    color: #368dae;
+    
+}
+.gauche{
+    display: flex;
+    font-size: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
+
+}
+.home{
+    display: flex;
+    margin-left: 700px;
+    position: absolute;
+}
+.about{
+    display: flex;
+    margin-left: 800px;
+    position: absolute;
+}
+.service{
+    display: flex;
+    margin-left: 900px;
+    position: absolute;
+}
+.prospect{
+    display: flex;
+    margin-left: 1000px;
+    position: absolute;
+}
+.estimator{
+    display: flex;
+    margin-left: 1100px;
+    position: absolute;
+}
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+.action-button {
+    padding: 10px 40px;
+    border-radius: 20px;
+    font-family: 'Pacifico', cursive;
+    text-decoration: none;
+    /* Ici on modifie la couleur et le fond de notre petit bouton */
+    background-color: white;
+    color: black;
+    margin-left: 100px;
+}
+.action {
+    padding: 10px 40px;
+    border-radius: 20px;
+    font-family: 'Pacifico', cursive;
+    text-decoration: none;
+    /* Ici on modifie la couleur et le fond de notre petit bouton */
+    background-color:#368dae; 
+    color: white;
+    margin-left: 105px;
+}
+.line{
+    display: flex;
+    margin-top: 100px;
+}   
+.one{
+    font-size: 20px;
+    margin-right: 3px;
+}
+.two{
+    font-size: 20px;
+    margin-right: 5px;
+    margin-left: 5px;
+    height: 100px;
+    width: 210px;
+background-color: #368dae;
+color: white;
+}
+.three{
+    font-size: 20px;
+    margin-left:5px ;
+}
+.jo{
+    font-size: 40px;
+    color: #368dae;
+}
+.ji{
+    font-size: 40px;
+    color: white;
+
+}
+.carde{
+    width: 700px;
+    font-size: 20px;
+    height: 2px;
+
+}
+.alig{
+    display: flex;
+    justify-content: baseline;
+    margin-top: 100px;
+
+}
+.reduit{
+    font-size: 20px;
+    margin-top: 100px;
+    margin-right: 100px;
+    border-radius: 10px;
+    background-color: #fff;
+}
+.fin{
+    font-size: 20px;
+    margin-top: 100px;
+    margin-right: 100px;
+    background-color: #368dae ;
+    color: white;
+    width: 800px;
+    height: 350px;
+    border-radius: 10px;
+    
+}
+.top{
+    margin-top: 100px;
+}
+footer{
+    background-color: white;
+}
+.go{
+    font-size: 20px;
+    margin-top: 100px;
+    margin-right: 100px;
+    border-radius: 30px;
+    background-color: aliceblue;
+}
